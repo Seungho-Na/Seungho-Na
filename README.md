@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 </div>
 
-#### Contact Me
-
 #### Contact me
 <div align="left">
   <a href="mailto:seungho1295@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
