@@ -11,3 +11,6 @@
 <div align="left">
   <a href="mailto:seungho1295@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
+
+#### Baek Joon Algorirhm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulestat00)](https://solved.ac/bulestat00/)
