@@ -13,4 +13,4 @@
 </div>
 
 #### Baek Joon Algorirhm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bulestat00)](https://solved.ac/bulestat00/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungho1295)](https://solved.ac/seungho1295/)
